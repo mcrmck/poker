@@ -2,7 +2,7 @@ import random
 import math
 
 """
-According to our calculation:
+According to calculation:
 the probaility that Q bets as first player should be sqrt(6)/2 - 1
 and the probability that K bets as first player should be 1
 """
